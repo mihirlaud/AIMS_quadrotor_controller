@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_FLIGHT_CONTROL
+	bool "flight_control"
+	default n
+	---help---
+		Enable support for flight_control
